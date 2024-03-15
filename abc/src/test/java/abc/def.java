@@ -1,8 +1,7 @@
 package abc;
 
-public class testtttt {
+public class def {
 public static void main() {
-	int a;
-	int b;
+	
 }
 }
